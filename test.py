@@ -1,4 +1,4 @@
 print("hello worlds")
 
-def fs(a, b):
-  print(a, b)
+for i in range(10):
+    print(i)s
