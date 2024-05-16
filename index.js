@@ -1,5 +1,1 @@
-console.log("hello world")
-
-const name = 5;
-
-const tercercommit = "hola";
+console.log("Gracias por asistir! Los esperamos en los siguientes talleres <3")
